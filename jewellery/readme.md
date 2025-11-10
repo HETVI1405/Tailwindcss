@@ -11,8 +11,7 @@ It highlights luxury, minimalism, and beauty inspired by roses.
 - Elegant footer with email subscription  
 
 ## 🎬 Video
-To replace the hero image with a video:
 
-   <video autoplay muted loop playsinline class="w-full h-auto object-cover">
-     <source src="https://drive.google.com/file/d/1Z-FRKGdyvpzp76asxeh5t32OuuO9IDL9/view?usp=sharing" type="video/mp4" />
-   </video>
+<video autoplay muted loop playsinline class="w-full h-auto object-cover">
+  <source src="https://drive.google.com/uc?export=download&id=1Z-FRKGdyvpzp76asxeh5t32OuuO9IDL9" type="video/mp4" />
+</video>

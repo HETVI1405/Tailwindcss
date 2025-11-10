@@ -1,16 +1,28 @@
-# React + Vite
+# Tailwind Basics — Columns Layout
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This small React + Tailwind CSS project teaches how to create a responsive column layout step by step.
 
-Currently, two official plugins are available:
+## 🎯 Goal
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Build a simple masonry-style grid using Tailwind utilities like `columns-*`, spacing, and responsive design.
 
-## React Compiler
+## 🛠️ Steps
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Create a React project using Vite or CRA.
+2. Install Tailwind CSS and configure it.
+3. Add Tailwind directives in `index.css`.
+4. Create a `Column.jsx` component with the given code.
+5. Use `2xl:columns-5 xl:columns-4 md:columns-3 columns-1` for responsiveness.
+6. Use `break-inside-avoid` to prevent card breaks.
+7. Add background, padding, and rounded corners.
+8. Display random images using `picsum.photos`.
+9. Test layout in different screen sizes.
+10. Add hover effects or shadows for practice.
 
-## Expanding the ESLint configuration
+## 🎥 Video 
+<b>Output :-</b><a href="https://drive.google.com/file/d/1eV1vSIC_65U2hRct1VWNsw2f-XISoc3v/view?usp=drive_link">click here</a>
+<br>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Topics:** setup, Tailwind utilities, responsive columns, and final output.
+
+Perfect for beginners learning Tailwind basics.
